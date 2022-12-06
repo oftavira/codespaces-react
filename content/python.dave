@@ -1,0 +1,28 @@
+
+***
+
+As many other languages python is interpreted, it means that the code is passed to 
+an engine that translates the code to be executed in the cores of the machine
+
+variables: a variable is a piece of information stored at some position in our memory
+(more precisely the computer´s memory), This information is accesible in many ways, for example
+if the information stored retrieves us information on how to perform some task then we have a tool
+there are many tools integrated in python, such as print() function, pow(a,b), open() and other built in functions
+
+we can access information about some specific object by callinbg the help(-object-) function
+
+***
+
+JSON is a very popular way of storing data and there are some rules to be obey when creating JSON
+objects
+
+Data is name/value pairs
+Data is separated by commas
+Curly braces hold objects
+Square brackets hold arrays
+
+***
+
+Tutorials and examples
+
+- 
