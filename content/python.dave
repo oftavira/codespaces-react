@@ -1,6 +1,8 @@
 
 ***
 
+sda Type
+
 As many other languages python is interpreted, it means that the code is passed to 
 an engine that translates the code to be executed in the cores of the machine
 
